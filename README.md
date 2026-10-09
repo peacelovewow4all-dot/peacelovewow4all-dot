@@ -36,10 +36,15 @@ I combine a **PhD in Energy & Climate**, an **MBA in Industrial Management**, an
 <p align="center">
   <img src="assets/adama-minigrid/adama-minigrid-cover.jpg" width="49%" alt="Africa Mini-Grids Program training cover">
   <img src="assets/adama-minigrid/adama-minigrid-training-session.jpg" width="49%" alt="Dr. Mintesnot delivering AMP mini-grid capacity-building training">
-</p>
 <p align="center">
-  <a href="https://www.facebook.com/100001707184099/posts/27393468536960017/?app=fbl">
-    <strong>View event post / workshop evidence</strong>
+  <a href="https://www.youtube.com/watch?v=ZvLq4KhAc2k">
+    <img src="https://img.youtube.com/vi/ZvLq4KhAc2k/hqdefault.jpg" width="70%" alt="AMP Ethiopia mini-grid capacity-building workshop video evidence">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ZvLq4KhAc2k">
+    <strong>Watch AMP Ethiopia mini-grid capacity-building workshop video evidence</strong>
   </a>
 </p>
 I served as a technical trainer and resource person for capacity-building workshops under the Africa Mini-Grids Program (AMP) in Ethiopia, with the participation of UNDP, GEF, the Ministry of Water and Energy, Power Ethiopia and regional energy-sector institutions.
