@@ -1,0 +1,1 @@
+Extract the ZIP. Open https://github.com/peacelovewow4all-dot/peacelovewow4all-dot and choose Add file > Upload files. Upload README.md and the assets folder, keeping energy-banner-animated.gif in assets. Commit to main. This includes the professional README redesign and new animated energy banner. Existing photos and CV remain in place.

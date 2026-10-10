@@ -1,16 +1,63 @@
-# Dr. Mintesnot Gizaw Terefe
+<p align="center">
+  <img src="assets/energy-banner-animated.gif" width="100%" alt="Dr. Mintesnot Gizaw Terefe — Sustainable Energy: sunlight on solar panels, a rotating wind turbine and an EV charging station">
+</p>
 
-### Sustainable Energy Technology · Renewable Energy Feasibility · Energy & Climate · Project Finance · Energy Access · E-Mobility
+<h1 align="center">Dr. Mintesnot Gizaw Terefe</h1>
+<p align="center"><strong>Sustainable energy researcher · Renewable-energy consultant · Educator</strong></p>
 
-Based in **Addis Ababa, Ethiopia**, I work across applied renewable-energy research, feasibility studies, project-finance analysis, energy access, climate-resilient infrastructure, environmental sustainability, and postgraduate education.
+<p align="center">
+  <a href="https://peacelovewow4all-dot.github.io/">Explore my portfolio</a> ·
+  <a href="https://scholar.google.com/citations?user=a-nB_U0AAAAJ&amp;hl=en">Google Scholar</a> ·
+  <a href="https://orcid.org/0000-0003-3647-0699">ORCID</a> ·
+  <a href="mailto:mintesnot.gizaw@aastu.edu.et">Contact</a>
+</p>
 
-I combine a **PhD in Energy & Climate**, an **MBA in Industrial Management**, an **MSc in Environmental Physics**, and practical experience in solar PV, mini-grids, storage, productive use of energy, EV charging, waste-to-energy, ESG, and investment-oriented modelling.
+I connect **energy-system design, applied research and investment analysis** to support renewable-energy development in Ethiopia and across Africa. My work spans hybrid mini-grids, solar PV, storage, waste-to-energy, energy access and EV charging infrastructure.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Waste--to--Energy%20%26%20Bioenergy-0A4D68?style=for-the-badge)](https://peacelovewow4all-dot.github.io/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3647--0699-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3647-0699)
-[![Email](https://img.shields.io/badge/Email-AASTU-1F4E79?style=for-the-badge)](mailto:mintesnot.gizaw@aastu.edu.et)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=a-nB_U0AAAAJ&hl=en)
+I am an **Assistant Professor of Sustainable Energy Technology at AASTU**, an **Adjunct Assistant Professor at Addis Ababa University**, and a renewable-energy and feasibility consultant working with Power Ethiopia and independent clients.
+
+## Research, projects and practical impact
+
+| Focus | Work and contribution |
+|:--|:--|
+| **Hybrid renewable mini-grids** | Research on solar, wind and pumped-hydro storage for Lake Ziway island communities; ongoing work on storage and energy access. |
+| **EV charging infrastructure** | Developing service-constrained optimisation of renewable-led fast-charging hubs along the Addis Ababa–Hawassa corridor. |
+| **Project feasibility and finance** | Techno-economic appraisal, financial modelling, bankability review and sensitivity analysis for renewable-energy projects. |
+| **Waste-to-energy and bioenergy** | Feedstock assessment, technology screening and investment-oriented project development. [Explore the portfolio →](https://peacelovewow4all-dot.github.io/) |
+| **Training and capacity building** | Mini-grid fundamentals, tariff modelling, grid-arrival preparedness, productive use and end-of-life planning under Ethiopia's Africa Mini-Grids Program. |
+
+## Selected publications
+
+- **2025 · Hybrid energy supply for Lake Ziway island** — [Cogent Engineering](https://doi.org/10.1080/23311916.2025.2468073)
+- **2024 · Solar island with water-battery storage** — [Cogent Engineering](https://doi.org/10.1080/23311916.2024.2363001)
+- **2023 · Wind, pumped-hydro and solar resource potential** — [EAI Endorsed Transactions on Energy Web](https://doi.org/10.4108/ew.88)
+
+## Tools and analytical methods
+
+**Energy systems:** HOMER Pro · PVsyst · PVGIS · GIS / ArcGIS · Terrain and resource assessment  
+**Optimisation:** Python / MILP · MATLAB · Reliability and scenario analysis  
+**Investment appraisal:** LCOE · NPV · IRR · WACC · CFADS · DSCR · CAPEX / OPEX
+
+## Training in action
+
+<p align="center">
+  <img src="assets/adama-minigrid/adama-minigrid-cover.jpg" width="48%" alt="Africa Mini-Grids Program capacity-building workshop in Ethiopia">
+  <img src="assets/adama-minigrid/adama-minigrid-training-session.jpg" width="48%" alt="Dr. Mintesnot delivering mini-grid training">
+</p>
+
+[Watch the Ethiopia mini-grid workshop →](https://www.youtube.com/watch?v=ZvLq4KhAc2k)
+
+## Collaboration
+
+I welcome research partnerships, renewable-energy feasibility assignments, project-finance modelling, postgraduate supervision and professional training. Areas of interest include **mini-grids, storage, EV charging, waste-to-energy and sustainable finance**.
+
+**Addis Ababa, Ethiopia** · [mintesnot.gizaw@aastu.edu.et](mailto:mintesnot.gizaw@aastu.edu.et)  
+[Download my renewable-energy feasibility CV](assets/Dr_Mintesnot_Gizaw_Terefe_Renewable_Energy_Feasibility_CV.pdf) · [View my professional portfolio](https://peacelovewow4all-dot.github.io/)
+
 ---
+
+<details>
+<summary><strong>Explore my full experience, training, education and professional development</strong></summary>
 
 ## Current roles
 
@@ -36,6 +83,7 @@ I combine a **PhD in Energy & Climate**, an **MBA in Industrial Management**, an
 <p align="center">
   <img src="assets/adama-minigrid/adama-minigrid-cover.jpg" width="49%" alt="Africa Mini-Grids Program training cover">
   <img src="assets/adama-minigrid/adama-minigrid-training-session.jpg" width="49%" alt="Dr. Mintesnot delivering AMP mini-grid capacity-building training">
+</p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ZvLq4KhAc2k">
     <img src="https://img.youtube.com/vi/ZvLq4KhAc2k/hqdefault.jpg" width="70%" alt="AMP Ethiopia mini-grid capacity-building workshop video evidence">
@@ -194,7 +242,7 @@ Selected public media appearances and technical/scientific analysis:
 - https://www.youtube.com/watch?v=ZvLq4KhAc2k
 - https://www.youtube.com/watch?v=G3ZK0-3nrQo
 
-Supporting media evidence is included in `media/Technical_and_Scientific_Analysis_Media_Evidence.pdf`.
+
 
 ---
 
@@ -223,20 +271,5 @@ I welcome collaboration on:
 
 ---
 
-## Contact
 
-**Dr. Mintesnot Gizaw Terefe**  
-Addis Ababa, Ethiopia  
-Email: **mintesnot.gizaw@aastu.edu.et**  
-Alternative: **mintesnot.gizaw@gmail.com**  
-Mobile / WhatsApp: **+251 942 540 471**
-
-### Professional resources
-- Credential evidence: see the `credentials/` folder in the full profile pack
-- Waste-to-Energy & Bioenergy Portfolio: https://peacelovewow4all-dot.github.io/
-- ORCID: https://orcid.org/0000-0003-3647-0699
-- CV: [Renewable Energy Feasibility CV](assets/Dr_Mintesnot_Gizaw_Terefe_Renewable_Energy_Feasibility_CV.pdf)
-
----
-
-> **Profile photo:** Use the professional portrait supplied with this pack as the GitHub account avatar. GitHub displays the account avatar beside the profile README, so the README itself intentionally avoids duplicating the portrait.
+</details>
