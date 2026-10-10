@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="assets/energy-banner-animated.gif" width="100%" alt="Dr. Mintesnot Gizaw Terefe — Sustainable Energy: solar PV, wind energy and EV charging">
+  <img src="assets/energy-banner-animated.gif" width="100%" alt="Dr. Mintesnot Gizaw Terefe — Sustainable Energy, Solar PV, Wind, Storage and EV Charging">
 </p>
 
 <h1 align="center">Dr. Mintesnot Gizaw Terefe</h1>
 
 <p align="center">
-  <strong>Sustainable Energy Technology · Renewable Energy Feasibility · Mini-Grids · Project Finance · Waste-to-Energy · E-Mobility</strong>
+  <strong>Sustainable Energy Technology · Mini-Grids · Project Finance · Waste-to-Energy · E-Mobility</strong>
+</p>
+
+<p align="center">
+  <strong>PhD in Energy & Climate / Environmental Science</strong> · <strong>MBA in Industrial Management</strong> · <strong>MSc in Environmental Physics</strong>
 </p>
 
 <p align="center">
   <a href="https://peacelovewow4all-dot.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Waste--to--Energy%20%26%20Bioenergy-0A4D68?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Waste--to--Energy%20%26%20Bioenergy-0A4D68?style=for-the-badge" alt="Waste-to-Energy and Bioenergy Portfolio">
   </a>
   <a href="https://scholar.google.com/citations?user=a-nB_U0AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
@@ -23,29 +27,31 @@
   </a>
 </p>
 
-I connect **energy-system design, applied research, project-feasibility analysis and investment modelling** to support renewable-energy development in Ethiopia and across Africa. My work spans **hybrid mini-grids, solar PV, battery storage, pumped-hydro storage, waste-to-energy, productive use of energy, EV charging infrastructure, climate-energy finance and bankable project development**.
+<p align="center">
+  <strong>Addis Ababa, Ethiopia</strong> · Assistant Professor · Renewable Energy & Feasibility Consultant
+</p>
 
-I am an **Assistant Professor of Sustainable Energy Technology at Addis Ababa Science and Technology University (AASTU)**, an **Adjunct Assistant Professor at Addis Ababa University**, and a renewable-energy and feasibility consultant working with Power Ethiopia and independent clients.
+I connect **energy-system design, applied research, feasibility studies and investment modelling** to support renewable-energy development in Ethiopia and across Africa.
+
+My work spans **solar PV, hybrid mini-grids, battery storage, pumped-hydro storage, productive use of energy, waste-to-energy, bioenergy, EV charging infrastructure, climate-energy finance and bankable project development**.
 
 ---
 
-## Featured professional portfolio
+## Featured portfolio
 
-### Waste-to-Energy & Bioenergy Project Development — Africa
-
-My dedicated GitHub Pages portfolio presents an investor- and developer-facing pathway from **waste-stream screening** to **pre-feasibility, technical and commercial structuring, finance readiness and implementation support**.
+### Waste-to-Energy & Bioenergy Project Development, Africa
 
 <p align="center">
   <a href="https://peacelovewow4all-dot.github.io/">
-    <strong>Explore my Waste-to-Energy and Bioenergy portfolio →</strong>
+    <strong>Explore my investor-facing Waste-to-Energy and Bioenergy portfolio</strong>
   </a>
 </p>
 
-The portfolio includes experience and technical engagement related to **Reppie Waste-to-Energy**, feedstock intelligence, technology screening, project bankability, environmental safeguards, household biogas and broader renewable-energy project development.
+This portfolio presents my work from **waste-stream screening** to **pre-feasibility, technical and commercial structuring, finance readiness and implementation support**. It includes experience related to **Reppie Waste-to-Energy**, feedstock intelligence, technology screening, household biogas, environmental safeguards and circular-energy project development.
 
 ---
 
-## Africa Mini-Grids Program (AMP): mini-grid training, tariff tools and regulatory capacity building
+## Africa Mini-Grids Program, AMP Ethiopia
 
 <p align="center">
   <img src="assets/adama-minigrid/adama-minigrid-training-session.jpg" width="100%" alt="Dr. Mintesnot delivering Africa Mini-Grids Program capacity-building training in Adama">
@@ -53,15 +59,15 @@ The portfolio includes experience and technical engagement related to **Reppie W
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ZvLq4KhAc2k">
-    <strong>Watch AMP Ethiopia mini-grid capacity-building workshop video evidence</strong>
+    <strong>Watch AMP Ethiopia mini-grid capacity-building workshop evidence</strong>
   </a>
 </p>
 
-I served as a technical trainer and resource person for capacity-building workshops under the **Africa Mini-Grids Program (AMP) in Ethiopia**, with the participation of **UNDP, GEF, the Ministry of Water and Energy, Power Ethiopia and regional energy-sector institutions**.
+I served as a technical trainer and resource person for capacity-building workshops under the **Africa Mini-Grids Program, AMP Ethiopia**, with the participation of **UNDP, GEF, the Ministry of Water and Energy, Power Ethiopia and regional energy-sector institutions**.
 
 The training focused on **mini-grid concepts and delivery models, tariff and regulatory tools, grid-arrival preparedness, productive use of renewable energy, waste management and decommissioning, and investment-oriented mini-grid planning for Ethiopia**.
 
-### Core contribution areas
+### Core training contribution
 
 - Mini-grid concepts, delivery models and hybrid system design
 - Solar, wind, hydro and hybrid-resource assessment using Ethiopian datasets
@@ -137,30 +143,41 @@ The training focused on **mini-grid concepts and delivery models, tariff and reg
 </details>
 
 <p align="center">
-  <img src="assets/adama-minigrid/adama-minigrid-cover.jpg" width="100%" alt="Africa Mini-Grids Program mini-grid concepts and delivery models training cover">
+  <img src="assets/adama-minigrid/adama-minigrid-cover.jpg" width="100%" alt="AMP Ethiopia mini-grid concepts and delivery models training cover">
 </p>
-
-This work reflects my practical contribution to Ethiopia’s mini-grid sector by connecting **technical design, tariff modelling, regulatory preparedness, productive-use business development, social inclusion and private-sector investment readiness**.
 
 ---
 
 ## Research, projects and practical impact
 
-| Focus | Work and contribution |
-|:--|:--|
-| **Hybrid renewable mini-grids** | Research on solar, wind, pumped-hydro storage, battery storage and energy-access systems for Ethiopian communities. |
-| **EV charging infrastructure** | Developing service-constrained optimisation of renewable-led fast-charging hubs along the Addis Ababa–Hawassa corridor. |
-| **Project feasibility and finance** | Techno-economic appraisal, financial modelling, bankability review, sensitivity analysis and lender-facing project interpretation. |
-| **Waste-to-energy and bioenergy** | Feedstock assessment, technology screening, investment-oriented project development and circular-energy advisory. |
-| **Training and capacity building** | Mini-grid fundamentals, tariff modelling, grid-arrival preparedness, productive use, decommissioning and regulatory tools. |
+### Hybrid renewable mini-grids
+
+Research and design work on solar, wind, pumped-hydro storage, battery storage and energy-access systems for Ethiopian island and mainland communities.
+
+### Renewable EV charging infrastructure
+
+Developing a service-constrained optimisation framework for renewable-led fast-charging hubs along the **Addis Ababa–Hawassa corridor**, integrating PV, BESS, charger adequacy, reliability, costs, NPV, CFADS and DSCR.
+
+### Project feasibility and finance
+
+Techno-economic appraisal, financial modelling, bankability review, sensitivity analysis and lender-facing interpretation for renewable-energy and infrastructure projects.
+
+### Waste-to-energy and bioenergy
+
+Feedstock assessment, technology screening, circular-economy framing, household biogas experience and investment-oriented project development.
 
 ---
 
 ## Selected publications
 
-- **2025 · Hybrid energy supply for Lake Ziway island** — [Cogent Engineering](https://doi.org/10.1080/23311916.2025.2468073)
-- **2024 · Solar island with water-battery storage** — [Cogent Engineering](https://doi.org/10.1080/23311916.2024.2363001)
-- **2023 · Wind, pumped-hydro and solar resource potential** — [EAI Endorsed Transactions on Energy Web](https://doi.org/10.4108/ew.88)
+- **2025 · Hybrid energy supply for Lake Ziway island**  
+  [Cogent Engineering](https://doi.org/10.1080/23311916.2025.2468073)
+
+- **2024 · Solar island with water-battery storage**  
+  [Cogent Engineering](https://doi.org/10.1080/23311916.2024.2363001)
+
+- **2023 · Wind, pumped-hydro and solar resource potential**  
+  [EAI Endorsed Transactions on Energy Web](https://doi.org/10.4108/ew.88)
 
 ---
 
@@ -173,111 +190,21 @@ This work reflects my practical contribution to Ethiopia’s mini-grid sector by
 
 ---
 
+## Professional learning and online training
+
+- **UNDP SDG Finance Academy**: Introduction to Sustainable Finance for Climate and Energy, completed with **100% final score**
+- **Eco-Justice Africa Workshop**
+- **Politecnico di Milano**: Strategic Energy Planning and Industrial Ecology
+- **Politecnico di Milano**: Sustainable Business in the Renewable Energy Sector
+- **Politecnico di Milano**: Life Cycle and Project Planning
+- **Politecnico di Milano**: Fundamentals of Financial and Management Accounting
+- **Politecnico di Milano**: Project Management Beyond Planning and Control
+- **ICTP**: Solar Energy and Energy Storage Technologies
+- **UNIDO**: Low-Carbon Clean Energy Technology Transfer
+
+---
+
 ## Collaboration
-
-I welcome research partnerships, renewable-energy feasibility assignments, project-finance modelling, postgraduate supervision and professional training. Areas of interest include **mini-grids, storage, EV charging, waste-to-energy, bioenergy, productive use of energy and sustainable finance**.
-
-**Addis Ababa, Ethiopia** · [mintesnot.gizaw@aastu.edu.et](mailto:mintesnot.gizaw@aastu.edu.et)  
-[View my professional portfolio](https://peacelovewow4all-dot.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=a-nB_U0AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-3647-0699)
-
----
-
-<details>
-<summary><strong>Explore my full experience, education, training and professional development</strong></summary>
-
-## Current roles
-
-- **Assistant Professor of Sustainable Energy Technology** — Addis Ababa Science and Technology University (AASTU)
-- **Adjunct Assistant Professor** — Center for Environmental Science, Addis Ababa University
-- **Renewable Energy & Feasibility Consultant** — Power Ethiopia and independent assignments
-- Academic and professional engagement spanning renewable energy, project development, climate-energy systems, environmental management and capacity building
-
----
-
-## Core expertise
-
-`Renewable Energy` · `Solar PV` · `Mini-Grids` · `Battery Storage` · `Pumped-Hydro Storage` · `Energy Access` · `E-Mobility`  
-`Feasibility Studies` · `Techno-Economic Modelling` · `Project Finance` · `NPV / IRR / DSCR / CFADS / WACC / LCOE`  
-`PVsyst` · `PVGIS` · `HOMER Pro` · `Python / MILP` · `MATLAB` · `GIS / ArcGIS` · `LiDAR / DEM`  
-`Waste-to-Energy` · `Bioenergy` · `Productive Use of Energy` · `Climate & ESG` · `Environmental Safeguards`
-
----
-
-## Selected renewable-energy and feasibility work
-
-### Solar-powered productive-use and public-service systems
-
-Experience includes feasibility and modelling contributions for solar-powered irrigation, multi-town water supply, remote public services and off-grid mini-grid applications in Ethiopia.
-
-### Standalone solar PV / mini-grid bankability review
-
-Reviewed and replicated financial-model logic for standalone solar PV systems, including energy-yield interpretation, battery replacement implications, debt tenor, CFADS, DSCR, project/equity returns, sensitivity analysis and investment-readiness flags.
-
-### Off-grid solar EV fast-charging hubs
-
-Developing a service-constrained optimisation framework for renewable-led EV fast-charging hubs along the **Addis Ababa–Hawassa corridor**, integrating demand synthesis, PV/BESS sizing, charger adequacy, reliability, battery selection, CAPEX/OPEX, WACC, NPV, CFADS and DSCR.
-
-### IOM Mozambique — technical contributor
-
-Technical contributor to **Market Dialogue I: Empowering Displaced Communities Through Energy Mesh Networks**, supporting discussion around decentralized renewable-energy access and community mesh-grid concepts for displaced communities in Mozambique.
-
----
-
-## Sustainable finance, project management and executive learning
-
-Recent professional development strengthens the bridge between technical energy analysis, investment readiness and implementation:
-
-- **UNDP SDG Finance Academy — Introduction to Sustainable Finance for Climate and Energy** — completed 24 August 2026, final score **100%**
-- **Politecnico di Milano — Sustainable business in the renewable energy sector**
-- **Politecnico di Milano — Life cycle and project planning**
-- **Politecnico di Milano — Fundamentals of financial and management accounting**
-- **Politecnico di Milano — Project Management beyond planning and control**
-- **Politecnico di Milano — Discovering Nuclear Science: energy and beyond**
-- **Science Diplomacy between its original goal and new geopolitical challenges**
-
-These complement my applied work in renewable-energy project appraisal, bankability review, climate/energy finance, stakeholder engagement and project delivery.
-
----
-
-## International research, training and collaboration
-
-- **Politecnico di Milano, Department of Energy** — Strategic Energy Planning and Industrial Ecology for Local Sustainable and Just Development, 2025–2026
-- **University of Padova, Italy** — Coimbra Group Visiting Scholar, Department of Industrial Engineering, 2018
-- **ICTP** — Solar Energy and Energy Storage Technologies
-- **UNIDO** — Low-Carbon Clean Energy Technology Transfer
-- International academic networking and cooperation development in sustainable energy and higher education
-
----
-
-## Teaching, mentoring and capacity building
-
-I teach and supervise undergraduate and postgraduate work in sustainable energy, environmental systems, energy and climate, renewable-energy applications, modelling, feasibility analysis and related project development.
-
-My capacity-building experience includes renewable-energy and productive-use training designed for **600+ entrepreneurs**, alongside student supervision and professional training for energy-sector stakeholders.
-
----
-
-## Media: technical and scientific analysis
-
-Selected public media appearances and technical/scientific analysis:
-
-- https://www.youtube.com/watch?v=dt4updLdym8
-- https://www.youtube.com/watch?v=ZvLq4KhAc2k
-- https://www.youtube.com/watch?v=G3ZK0-3nrQo
-
----
-
-## Education
-
-- **PhD — Energy & Climate / Environmental Science**, Addis Ababa University, 2024
-- **MBA — Industrial Management**, Addis Ababa Science and Technology University, 2017
-- **MSc — Environmental Physics**, Haramaya University, 2012
-- **BSc — Applied Physics**, Arba Minch University, 2008
-- Executive / continuing education in **Strategic Energy Planning and Industrial Ecology**, Politecnico di Milano
-
----
-
-## What I am interested in collaborating on
 
 I welcome collaboration on:
 
@@ -289,5 +216,80 @@ I welcome collaboration on:
 - Energy-access and climate-resilient infrastructure
 - Energy and climate research, postgraduate supervision and capacity building
 - Africa-focused sustainable-finance and energy-transition initiatives
+
+<p align="center">
+  <a href="mailto:mintesnot.gizaw@aastu.edu.et">
+    <strong>Contact me by email</strong>
+  </a>
+  ·
+  <a href="https://peacelovewow4all-dot.github.io/">
+    <strong>View portfolio</strong>
+  </a>
+  ·
+  <a href="https://scholar.google.com/citations?user=a-nB_U0AAAAJ&hl=en">
+    <strong>Google Scholar</strong>
+  </a>
+</p>
+
+---
+
+<details>
+<summary><strong>Explore full experience, education and additional professional details</strong></summary>
+
+## Current roles
+
+- **Assistant Professor of Sustainable Energy Technology**, Addis Ababa Science and Technology University, AASTU
+- **Adjunct Assistant Professor**, Center for Environmental Science, Addis Ababa University
+- **Renewable Energy and Feasibility Consultant**, Power Ethiopia and independent assignments
+- Academic and professional engagement spanning renewable energy, project development, climate-energy systems, environmental management and capacity building
+
+## Education
+
+- **PhD, Energy & Climate / Environmental Science**, Addis Ababa University, Ethiopia, 2024, with international research engagement at the **University of Padova, Italy**
+- **MBA, Industrial Management**, Addis Ababa Science and Technology University, Ethiopia, 2017
+- **MSc, Environmental Physics**, Haramaya University, Ethiopia, 2012
+- **BSc, Applied Physics**, Arba Minch University, Ethiopia, 2008
+- Executive and continuing education in **Strategic Energy Planning and Industrial Ecology**, Politecnico di Milano, Italy
+
+## Core expertise
+
+`Renewable Energy` · `Solar PV` · `Mini-Grids` · `Battery Storage` · `Pumped-Hydro Storage` · `Energy Access` · `E-Mobility`  
+`Feasibility Studies` · `Techno-Economic Modelling` · `Project Finance` · `NPV / IRR / DSCR / CFADS / WACC / LCOE`  
+`PVsyst` · `PVGIS` · `HOMER Pro` · `Python / MILP` · `MATLAB` · `GIS / ArcGIS` · `LiDAR / DEM`  
+`Waste-to-Energy` · `Bioenergy` · `Productive Use of Energy` · `Climate & ESG` · `Environmental Safeguards`
+
+## Selected renewable-energy and feasibility work
+
+### Solar-powered productive-use and public-service systems
+
+Experience includes feasibility and modelling contributions for solar-powered irrigation, multi-town water supply, remote public services and off-grid mini-grid applications in Ethiopia.
+
+### Standalone solar PV and mini-grid bankability review
+
+Reviewed and replicated financial-model logic for standalone solar PV systems, including energy-yield interpretation, battery replacement implications, debt tenor, CFADS, DSCR, project and equity returns, sensitivity analysis and investment-readiness flags.
+
+### IOM Mozambique technical contribution
+
+Technical contributor to **Market Dialogue I: Empowering Displaced Communities Through Energy Mesh Networks**, supporting discussion around decentralized renewable-energy access and community mesh-grid concepts for displaced communities in Mozambique.
+
+## International research, training and collaboration
+
+- **University of Padova, Italy**: international research engagement / Coimbra Group Visiting Scholar, Department of Industrial Engineering
+- **Politecnico di Milano, Department of Energy**: Strategic Energy Planning and Industrial Ecology for Local Sustainable and Just Development
+- **ICTP**: Solar Energy and Energy Storage Technologies
+- **UNIDO**: Low-Carbon Clean Energy Technology Transfer
+- International academic networking and cooperation development in sustainable energy and higher education
+
+## Teaching, mentoring and capacity building
+
+I teach and supervise undergraduate and postgraduate work in sustainable energy, environmental systems, energy and climate, renewable-energy applications, modelling, feasibility analysis and related project development.
+
+My capacity-building experience includes renewable-energy and productive-use training designed for **600+ entrepreneurs**, alongside student supervision and professional training for energy-sector stakeholders.
+
+## Media: technical and scientific analysis
+
+- https://www.youtube.com/watch?v=dt4updLdym8
+- https://www.youtube.com/watch?v=ZvLq4KhAc2k
+- https://www.youtube.com/watch?v=G3ZK0-3nrQo
 
 </details>
